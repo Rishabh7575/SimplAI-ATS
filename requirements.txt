@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+streamlit-lottie
+pdf2image
+requests
+Pillow
+langchain
+pygments  # for code language detection
